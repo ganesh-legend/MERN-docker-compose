@@ -1,6 +1,6 @@
 # A simple MERN stack application 
 
-## *Note:- You should access this application on browser of same machine where you deploy this. or else it will not work. Try to implement this if you have local machine not on AWs EC2.*
+## *Note:- You should access this application on browser of same machine where you deploy this. or else it will not work. Try to implement this if you have local machine not on AWS EC2.*
 
 ### Create a network for the docker containers
 
