@@ -1,5 +1,6 @@
 # A simple MERN stack application 
 
+## Note:- You should access this application on browser of same machine where you deploy this. or else it will not work
 ### Create a network for the docker containers
 
 `docker network create demo`
